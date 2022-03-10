@@ -1,1 +1,1 @@
-Build and deployed and azure Infra sturcture with 8 child modules containing 2 centos vm and 1 windows vm as well as database, load balancer, data disk, recovery services vault and log analytics workspace
+Built and deployed and azure Infra sturcture with 8 child modules containing 2 centos vm and 1 windows vm as well as database, load balancer, data disk, recovery services vault and log analytics workspace
